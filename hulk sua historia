@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Tributo a Hulk - Jogador do Atlético Mineiro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: black;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    header img {
+      max-width: 200px;
+      border-radius: 10px;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      background: white;
+      margin-bottom: 20px;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    aside {
+      background: #eee;
+      padding: 15px;
+      margin: 20px;
+      border-radius: 8px;
+    }
+    aside img {
+      max-width: 150px;
+      border-radius: 50%;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 10px;
+      text-align: center;
+    }
+    tfoot td {
+      text-align: center;
+      font-style: italic;
+    }
+    footer {
+      background: black;
+      color: white;
+      text-align: center;
+      padding: 15px;
+    }
+    footer a {
+      color: #ffcc00;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Cabeçalho -->
+  <header>
+    <h1>Hulk - Ídolo do Atlético Mineiro</h1>
+    <img src="imagens/hulk-destaque.jpg" alt="Hulk comemorando pelo Atlético Mineiro">
+  </header>
+
+  <!-- Conteúdo principal -->
+  <main>
+    <!-- Apresentação -->
+    <section>
+      <h2>Apresentação</h2>
+      <p><strong>Givanildo Vieira de Souza</strong>, mais conhecido como <em>Hulk</em>, é um jogador brasileiro que conquistou a torcida do <strong>Atlético Mineiro</strong> com sua garra, força e gols decisivos.</p>
+    </section>
+
+    <!-- Carreira -->
+    <section>
+      <h2>Carreira</h2>
+      <p>Hulk iniciou sua carreira no futebol brasileiro, mas se destacou no exterior, passando por clubes em <em>Portugal</em>, <em>Rússia</em> e <em>China</em>. Em 2021, retornou ao Brasil para defender o Atlético Mineiro, onde rapidamente se tornou um dos maiores ídolos do clube.</p>
+      <ul>
+        <li>2008–2012: FC Porto (Portugal)</li>
+        <li>2012–2016: Zenit (Rússia)</li>
+        <li>2016–2020: Shanghai SIPG (China)</li>
+        <li>2021–atual: Atlético Mineiro (Brasil)</li>
+      </ul>
+    </section>
+
+    <!-- Conquistas -->
+    <section>
+      <h2>Principais Conquistas</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Conquista</th>
+            <th>Ano</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Campeonato Brasileiro</td>
+            <td>2021</td>
+          </tr>
+          <tr>
+            <td>Copa do Brasil</td>
+            <td>2021</td>
+          </tr>
+          <tr>
+            <td>Supercopa do Brasil</td>
+            <td>2022</td>
+          </tr>
+          <tr>
+            <td>Campeonato Mineiro</td>
+            <td>2021, 2022, 2023</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="2">Informações atualizadas em 2025</td>
+          </tr>
+        </tfoot>
+      </table>
+    </section>
+
+    <!-- Outras informações -->
+    <section>
+      <h2>Curiosidades</h2>
+      <ul>
+        <li>É chamado de "Hulk" por sua força física, em referência ao herói da Marvel.</li>
+        <li>Já foi artilheiro do Campeonato Brasileiro em 2021.</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- Ficha de Identificação -->
+  <aside>
+    <h2>Ficha de Identificação</h2>
+    <img src="imagens/hulk-perfil.jpg" alt="Foto de perfil do jogador Hulk">
+    <p><strong>Nome completo:</strong> Givanildo Vieira de Souza</p>
+    <p><strong>Data de nascimento:</strong> 25 de julho de 1986</p>
+    <p><strong>Local de nascimento:</strong> Campina Grande - PB, Brasil</p>
+    <p><strong>Clube atual:</strong> Atlético Mineiro <img src="imagens/atletico.jpg" alt="Escudo Atlético Mineiro" style="width:40px;"></p>
+  </aside>
+
+  <!-- Rodapé -->
+  <footer>
+    <p>Referências: <a href="https://pt.wikipedia.org/wiki/Hulk_(futebolista)" target="_blank">Wikipedia</a> | <a href="https://www.galo.com.br/" target="_blank">Atlético Mineiro</a></p>
+    <p>Página criada em 2025</p>
+  </footer>
+
+</body>
+</html>
